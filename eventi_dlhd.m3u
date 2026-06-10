@@ -1,13 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
-https://example.com.m3u8
-
-#EXTINF:-1 tvg-id="friendlyportugalvsnigeria" tvg-name="Soccer | Friendly : Portugal vs Nigeria (19:45)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Portugal_vs_Nigeria.png" group-title="Eventi Live DLHD",Soccer | Friendly : Portugal vs Nigeria (19:45)
-https://dlhd.pk/watch.php?id=462
-
-#EXTINF:-1 tvg-id="friendlyenglandvscostarica" tvg-name="Soccer | Friendly : England vs Costa Rica (20:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/England_vs_Costa Rica.png" group-title="Eventi Live DLHD",Soccer | Friendly : England vs Costa Rica (20:00)
-https://dlhd.pk/watch.php?id=870
-
-#EXTINF:-1 tvg-id="fiawecround424hoursoflemansfreepractice2" tvg-name="Motorsport | FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 2 (19:45)" tvg-logo="https://www.footyrenders.com/render/lionel-messi-389.png" group-title="Eventi Live DLHD",Motorsport | FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 2 (19:45)
-https://dlhd.pk/watch.php?id=878
-
