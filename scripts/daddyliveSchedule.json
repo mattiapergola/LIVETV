@@ -1,5 +1,77 @@
 {
     "Thursday 11th June 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "21:45",
+                "event": "USAC Indiana Midget Week Lincoln",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "211"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5025"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "Appalachian LM Speedweek Marion",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "212"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5026"
+                    }
+                ]
+            },
+            {
+                "time": "22:45",
+                "event": "Weekly Racing Thunder Road",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "214"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5028"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "High Limit Racing Shelby",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "215"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5029"
+                    }
+                ]
+            },
+            {
+                "time": "00:45",
+                "event": "NARC Fastest 5 Days Southern Oregon",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "216"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5030"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "time": "16:00",
