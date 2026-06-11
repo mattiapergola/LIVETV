@@ -1,18 +1,10 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://github.com/nzo66/TV/raw/refs/heads/main/epg.xml.gz"
-#EXTINF:-1 tvg-id="Euro.Sport.1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/euro-sport-1.png",[Cycling] 2026-06-11 13:20 - Cycling -  vs  (Euro Sport 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+1&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Euro.Sport.1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/euro-sport-1.png",[Cycling] 2026-06-11 13:20 - Cycling -  vs  (Euro Sport 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+1&code=it&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Sky.Sport.Max" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-max.svg",[MLB] 2026-06-11 17:10 - MLB - Detroit Tigers vs Minnesota Twins (Sky Sport Max)
 https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+max&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Euro.Sport.2" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/euro-sport-2.png",[Motorsport] 2026-06-11 12:30 - Motorsport -  vs  (Euro Sport 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+2&code=it&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Euro.Sport.1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/euro-sport-1.png",[Motorsport] 2026-06-11 17:45 - Motorsport -  vs  (Euro Sport 1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+1&code=it&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Euro.Sport.1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/euro-sport-1.png",[Motorsport] 2026-06-11 20:45 - Motorsport -  vs  (Euro Sport 1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+1&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Euro.Sport.2" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/euro-sport-2.png",[Motorsport] 2026-06-11 12:30 - Motorsport -  vs  (Euro Sport 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+2&code=it&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Euro.Sport.1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/euro-sport-1.png",[Motorsport] 2026-06-11 17:45 - Motorsport -  vs  (Euro Sport 1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+1&code=it&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Euro.Sport.1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/euro-sport-1.png",[Motorsport] 2026-06-11 20:45 - Motorsport -  vs  (Euro Sport 1)
