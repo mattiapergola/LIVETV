@@ -1,5 +1,127 @@
 {
     "Saturday 13th June 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "21:00",
+                "event": "CARS Tour Dominion",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "190"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "Millbridge Sprints",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "191"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "NASCAR Weekly Racing Riverhead",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "192"
+                    }
+                ]
+            },
+            {
+                "time": "21:45",
+                "event": "USAC Indiana Midget Week Tri-State",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "193"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "Volusia Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "194"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "75th Anniversary Legends Night Fonda",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "195"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "WOrld of Outlaws Late Models",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "201"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "DIRTcar Summer Nationals Late Models",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "202"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "Land of Legends Late Models",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "205"
+                    }
+                ]
+            },
+            {
+                "time": "22:45",
+                "event": "USAC MRA Sprints I-35",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "206"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "World of Outlaws Sprint Cars Knoxville",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "207"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Medieval Cage Fighting Championship",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "208"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "time": "09:30",
@@ -94,6 +216,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3004"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5018"
                     }
                 ]
             },
@@ -3860,6 +3986,18 @@
                         "channel_id": "5013"
                     },
                     {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5022"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5023"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5024"
+                    },
+                    {
                         "channel_name": "SBS AU",
                         "channel_id": "3009"
                     },
@@ -6940,6 +7078,10 @@
                     {
                         "channel_name": "Sport TV4 Portugal",
                         "channel_id": "289"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5021"
                     }
                 ]
             },
@@ -6996,6 +7138,10 @@
                     {
                         "channel_name": "DAZN PPV",
                         "channel_id": "59"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5014"
                     }
                 ]
             },
@@ -7030,6 +7176,10 @@
                     {
                         "channel_name": "DAZN PPV",
                         "channel_id": "68"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2012"
                     }
                 ]
             }
@@ -7042,6 +7192,24 @@
                     {
                         "channel_name": "PPV Feed",
                         "channel_id": "69"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5025"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2013"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "PRIME SHOW MMA 17",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5014"
                     }
                 ]
             },
