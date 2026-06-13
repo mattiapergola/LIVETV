@@ -1,12 +1,24 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Fight | PFL Africa Adeshina v Campos | 18:00 ()" group-title="Eventi Live STREAMED",Fight | PFL Africa Adeshina v Campos | 18:00 ()
+https://embed.st/embed/echo/ppv-event-10-pfl-africa-adeshina-v-campos-ppv-10/1
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Fight | Freddy Kiwitt - Henry Kigongo Kasujja | 17:00 (English)" group-title="Eventi Live STREAMED",Fight | Freddy Kiwitt - Henry Kigongo Kasujja | 17:00 (English)
+https://embed.st/embed/golf/23177/1
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Other | AMA Supercross Championship Lakewood | 17:00 ()" group-title="Eventi Live STREAMED",Other | AMA Supercross Championship Lakewood | 17:00 ()
+https://embed.st/embed/echo/ppv-event-14-ama-supercross-championship-lakewood-ppv14/1
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Fight | Floyd Mayweather Jr vs Mike Zambidis | 17:00 (English)" group-title="Eventi Live STREAMED",Fight | Floyd Mayweather Jr vs Mike Zambidis | 17:00 (English)
+https://embed.st/embed/delta/live-event_floyd-mayweather-jr-vs-mike-zambidis-live-stream/1
+#EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCF5h+1AWDEpNILCFO8QMU8avTNLJBSwi5jFPo4oe+8o10H5rMBg7oxiEEA.webp" tvg-name="Fight | Tommy Fury vs Eddie Hall | 17:30 (English - DAZN)" group-title="Eventi Live STREAMED",Fight | Tommy Fury vs Eddie Hall | 17:30 (English - DAZN)
+https://embed.st/embed/admin/ppv-tommy-fury-vs-eddie-hall/1
+#EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECAiaQomVJDcQfEPpIbzODfr4FgSCjdYixKMCpRc35ellkemtGBuYqIQQA.webp" tvg-name="Rugby | Catalans Dragons vs Castleford Tigers | 17:00 ()" group-title="Eventi Live STREAMED",Rugby | Catalans Dragons vs Castleford Tigers | 17:00 ()
+https://embed.st/embed/echo/catalans-dragons-vs-castleford-tigers-game-182283/1
+#EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICNhAwQM6fGA0s4kMJBUZU4BBCJ1cnSBTB521dsRYFpEVeHGj-MIJsFs9MIWBJcAYyNCnVgk7MiNXeTAnLWsIIA.webp" tvg-name="Fight | Glory Collision 9 | 16:30 (English - DAZN)" group-title="Eventi Live STREAMED",Fight | Glory Collision 9 | 16:30 (English - DAZN)
+https://embed.st/embed/admin/ppv-glory-collision-9/1
 #EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCEkBjcSBggqIRBDkgsIFSFIiQwjbqWTsIKSOMRg8bXppW9KYFQf8wgswWz0whYElxSHIVdWC2FtBw8rMFdgCzIIIA.webp" tvg-name="Motor-sports | Pro Motocross: Thunder Valley | 16:00 (English - Peacock)" group-title="Eventi Live STREAMED",Motor-sports | Pro Motocross: Thunder Valley | 16:00 (English - Peacock)
 https://embed.st/embed/admin/ppv-pro-motocross-thunder-valley/1
 #EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGhBEhpKbCGHAqICPLnSVKafOU6liTZKXSYIEwGNVNLFt7lJAoSKbZ6YQsCS4zsoWG6dJBTJZAmB4cj9gSTIIIA.webp" tvg-name="American-football | Vienna Vikings vs Alpine Rams | 16:00 (English - AFLE+)" group-title="Eventi Live STREAMED",American-football | Vienna Vikings vs Alpine Rams | 16:00 (English - AFLE+)
 https://embed.st/embed/admin/ppv-alpine-rams-vs-vienna-vikings/1
 #EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYSBDAIIAMYgs2aSCogZZLCulL42cSBT6IwRDBC6SIS8cSGyM1aPLGBQkUyUpyhYElyyvITBuTmNhUnoCE3Jg7XsgA.webp" tvg-name="American-football | Rhein Fire vs Paris Lights | 16:00 (English - AFLE+)" group-title="Eventi Live STREAMED",American-football | Rhein Fire vs Paris Lights | 16:00 (English - AFLE+)
 https://embed.st/embed/admin/ppv-paris-lights-vs-rhein-fire/1
-#EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICNhAwQM6fGA0s4kMJBUZU4BBCJ1cnSBTB521dsRYFpEVeHGj-MIJsFs9MIWBJcAYyNCnVgk7MiNXeTAnLWsIIA.webp" tvg-name="Fight | Glory Collision 9 | 16:30 (English - DAZN)" group-title="Eventi Live STREAMED",Fight | Glory Collision 9 | 16:30 (English - DAZN)
-https://embed.st/embed/admin/ppv-glory-collision-9/1
 #EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdihDSQYlWG28QWECcMwTITce2L8wJBSwi5jFGFUoe78o2pzPdvRg7uJiEEA.webp" tvg-name="Fight | PFL Africa 2 Nigeria | 15:00 (English)" group-title="Eventi Live STREAMED",Fight | PFL Africa 2 Nigeria | 15:00 (English)
 https://embed.st/embed/delta/live-event_2026-pfl-africa-2-nigeria-live-stream/1
 #EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXGxB8QcLGCQhuIKbi3GQJEFcQoQKAsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" tvg-name="Motor-sports | 24 Hours of Le Mans | 13:00 (English - Stan Sport)" group-title="Eventi Live STREAMED",Motor-sports | 24 Hours of Le Mans | 13:00 (English - Stan Sport)
@@ -15,10 +27,6 @@ https://embed.st/embed/admin/ppv-24-hours-of-le-mans-race/1
 https://embed.st/embed/echo/rbc-canadian-open-pga-tour-pga-526234/1
 #EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrxocQKMNLBIQvEFhBnjx6iBhnrIEiyQUsIuY12qUPMGXhFqcl74rMBgPuJiEEA.webp" tvg-name="Darts | BetVictor World Cup Darts Day 3 | 11:00 (English - English)" group-title="Eventi Live STREAMED",Darts | BetVictor World Cup Darts Day 3 | 11:00 (English - English)
 https://embed.st/embed/admin/ppv-world-cup-of-darts-day-3/1
-#EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXknZgUIcDm4g+hkBBA6cMEAaMwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" tvg-name="Motor-sports | Barcelona-Catalunya Grand Prix Practice 3 | 10:30 (English)" group-title="Eventi Live STREAMED",Motor-sports | Barcelona-Catalunya Grand Prix Practice 3 | 10:30 (English)
-https://embed.st/embed/golf/23014/1
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Tennis | ATP / WTA: Stuttgart / Hertogenbosch 🎾 | 09:00 ()" group-title="Eventi Live STREAMED",Tennis | ATP / WTA: Stuttgart / Hertogenbosch 🎾 | 09:00 ()
-https://embed.st/embed/echo/atp-wta-stuttgart-hertogenbosch-tn-1/1
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Motor-sports | Formula 1 2026 - Spain GP | 08:50 (English)" group-title="Eventi Live STREAMED",Motor-sports | Formula 1 2026 - Spain GP | 08:50 (English)
 https://embed.st/embed/delta/live-event_formula-1-2026-spain-gp-live-stream/1
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Motor-sports | Nascar Cup Series 2026 - Coca-Cola 600 | 08:43 (English)" group-title="Eventi Live STREAMED",Motor-sports | Nascar Cup Series 2026 - Coca-Cola 600 | 08:43 (English)
@@ -31,18 +39,6 @@ https://embed.st/embed/admin/admin-sky-sports-tennis/1
 https://embed.st/embed/admin/admin-tennis-channel/1
 #EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuMFBWLwBTYCbYAQxSzPzLCWDWB12Hga00quAGNCF0GdCBQhqjEM1Y4AJhixo5YXLCa8uwMAQSRgATkKk8bMFuKGIQA.webp" tvg-name="Motor-sports | Rally TV |  (English)" group-title="Eventi Live STREAMED",Motor-sports | Rally TV |  (English)
 https://embed.st/embed/admin/admin-rally-tv/1
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Fight | Freddy Kiwitt - Henry Kigongo Kasujja | 17:00 (English)" group-title="Eventi Live STREAMED",Fight | Freddy Kiwitt - Henry Kigongo Kasujja | 17:00 (English)
-https://embed.st/embed/golf/23177/1
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Other | AMA Supercross Championship Lakewood | 17:00 ()" group-title="Eventi Live STREAMED",Other | AMA Supercross Championship Lakewood | 17:00 ()
-https://embed.st/embed/echo/ppv-event-14-ama-supercross-championship-lakewood-ppv14/1
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Fight | Floyd Mayweather Jr vs Mike Zambidis | 17:00 (English)" group-title="Eventi Live STREAMED",Fight | Floyd Mayweather Jr vs Mike Zambidis | 17:00 (English)
-https://embed.st/embed/delta/live-event_floyd-mayweather-jr-vs-mike-zambidis-live-stream/1
-#EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECAiaQomVJDcQfEPpIbzODfr4FgSCjdYixKMCpRc35ellkemtGBuYqIQQA.webp" tvg-name="Rugby | Catalans Dragons vs Castleford Tigers | 17:00 ()" group-title="Eventi Live STREAMED",Rugby | Catalans Dragons vs Castleford Tigers | 17:00 ()
-https://embed.st/embed/echo/catalans-dragons-vs-castleford-tigers-game-182283/1
-#EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCF5h+1AWDEpNILCFO8QMU8avTNLJBSwi5jFPo4oe+8o10H5rMBg7oxiEEA.webp" tvg-name="Fight | Tommy Fury vs Eddie Hall | 17:00 (English - DAZN)" group-title="Eventi Live STREAMED",Fight | Tommy Fury vs Eddie Hall | 17:00 (English - DAZN)
-https://embed.st/embed/admin/ppv-tommy-fury-vs-eddie-hall/1
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Fight | PFL Africa Adeshina v Campos | 18:00 ()" group-title="Eventi Live STREAMED",Fight | PFL Africa Adeshina v Campos | 18:00 ()
-https://embed.st/embed/echo/ppv-event-10-pfl-africa-adeshina-v-campos-ppv-10/1
 #EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdqrD9qwJPJC8QWECZghqIFJZDSbRlkgpYRcxijCqUPD+UY6xXviswGAe4mIQQA.webp" tvg-name="Baseball | Minnesota Twins vs St. Louis Cardinals | 18:10 (English - Twins.TV)" group-title="Eventi Live STREAMED",Baseball | Minnesota Twins vs St. Louis Cardinals | 18:10 (English - Twins.TV)
 https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-minnesota-twins/1
 #EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IGONLZJEEaRCIAxvKog1EBSBIgaWESA1kyGtaomKQys8CopysgULkFs9MIWBJciu0LDdOWWEpOxd4cn9gWWMgA.webp" tvg-name="American-football | DC Defenders vs. Louisville Kings | 19:00 (English - ABC)" group-title="Eventi Live STREAMED",American-football | DC Defenders vs. Louisville Kings | 19:00 (English - ABC)
@@ -71,10 +67,10 @@ https://embed.st/embed/admin/ppv-atlanta-braves-vs-new-york-mets/1
 https://embed.st/embed/admin/ppv-brazil-vs-morocco/1
 #EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEOBQgtveGCQhuIKSBKHtFjRHONgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" tvg-name="Basketball | Connecticut Sun vs Indiana Fever | 22:00 (English - Peacock)" group-title="Eventi Live STREAMED",Basketball | Connecticut Sun vs Indiana Fever | 22:00 (English - Peacock)
 https://embed.st/embed/admin/ppv-indiana-fever-vs-connecticut-sun/1
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Fight | Oshae Jones vs Elia Carranza | 23:00 (English)" group-title="Eventi Live STREAMED",Fight | Oshae Jones vs Elia Carranza | 23:00 (English)
-https://embed.st/embed/delta/live-event_oshae-jones-vs-elia-carranza-live-stream/1
 #EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECGBJOfbGxDcQUkIhggUIEiAi4TJglop9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" tvg-name="American-football | Saskatchewan Roughriders vs BC Lions | 23:00 (English - CFL+)" group-title="Eventi Live STREAMED",American-football | Saskatchewan Roughriders vs BC Lions | 23:00 (English - CFL+)
 https://embed.st/embed/admin/ppv-bc-lions-vs-saskatchewan-roughriders/1
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Fight | Oshae Jones vs Elia Carranza | 23:00 (English)" group-title="Eventi Live STREAMED",Fight | Oshae Jones vs Elia Carranza | 23:00 (English)
+https://embed.st/embed/delta/live-event_oshae-jones-vs-elia-carranza-live-stream/1
 #EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKkmAAGEDGBhtIEiF4gsICzBDUQKWyGkPbLJBSwi5jFGFUoeP8kZqOT98Vn0fcTEIIA.webp" tvg-name="Baseball | Kansas City Royals vs Houston Astros | 23:10 (English - Royals.TV)" group-title="Eventi Live STREAMED",Baseball | Kansas City Royals vs Houston Astros | 23:10 (English - Royals.TV)
 https://embed.st/embed/admin/ppv-houston-astros-vs-kansas-city-royals/1
 #EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmJAhpYMRBAoQvEFi0gYIagevTtWlkgpYRcxil0cUPXeUbU5XviswGAejHpAA.webp" tvg-name="Baseball | Milwaukee Brewers vs Philadelphia Phillies | 23:10 (English - Brewers.TV)" group-title="Eventi Live STREAMED",Baseball | Milwaukee Brewers vs Philadelphia Phillies | 23:10 (English - Brewers.TV)
